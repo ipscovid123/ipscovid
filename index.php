@@ -1,1 +1,1 @@
-<h1 style="color:##FA8072";>HOLA IPS . :D</h1>
+<p style="color:##FA8072";>HOLA IPS . :D</p>
