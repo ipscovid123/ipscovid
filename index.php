@@ -1,1 +1,1 @@
-<h6>Hola ips</h6>
+<h1>HOLA IPS :D</h1>
